@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davindb/deyond-wedding/issues"
   },
-  "homepage": "https://github.com/davindb/deyond-wedding#readme"
+  "homepage": "https://github.com/davindb/deyond-wedding#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
